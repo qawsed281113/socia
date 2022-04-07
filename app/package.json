@@ -1,7 +1,9 @@
 {
   "name": "app",
   "private": "true",
-  "scripts": {},
+  "scripts": {
+    "dev": "gulp watch"
+  },
   "devDependencies": {
     "@babel/core": "^7.17.9",
     "@babel/preset-env": "^7.16.11",
